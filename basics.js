@@ -8,7 +8,7 @@ var myName = "Justin";
  */
 
 var person = {
-  name: "Justin",
+  name: "Justin Lau",
   age: 28
 }
 /* Create a variable called `canDrive`,
